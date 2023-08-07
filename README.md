@@ -1,11 +1,11 @@
-#INTRODUCTION
+# INTRODUCTION
 
 ![clean](https://github.com/dannieRope/Cleaning-up-Invoices-with-merged-categories-and-merged-Amounts-in-Excels-Power-Equiry-Editor/assets/132214828/969fca3a-5143-40a9-b395-f25c667efb47)
 
 
 Possessing data cleaning skills is crucial for any data analyst. While there isn't a single method for data cleaning in MS Excel, it's essential to acquire diverse techniques and approaches for effectively tidying data within the software.
 
-I came across this disorderly dataset online. Feel free to explore it through this link. The untidy data includes an OrderId column, a Category Column with combined categories, and an Amount column with combined values.
+I came across this disorderly dataset online. Feel free to explore it through this [link](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/). The untidy data includes an OrderId column, a Category Column with combined categories, and an Amount column with combined values.
 
 ![DATASET](https://github.com/dannieRope/Cleaning-up-Invoices-with-merged-categories-and-merged-Amounts-in-Excels-Power-Equiry-Editor/assets/132214828/54c03274-f3c6-48f0-9d9a-76907097c7df)
 
@@ -14,7 +14,7 @@ The goal of data cleaning is to separate the merged categories and amounts, extr
 
 The primary tool employed for this cleaning process is Microsoft Excel's Power Query, with key features utilized being Transpose, Split Column, and Fill Down.
 
-##DATA CLEANING PROCESS
+## DATA CLEANING PROCESS
 
 The initial step in the data cleaning process involves importing the unclean data into the Power Query Editor. To accomplish this:
 
